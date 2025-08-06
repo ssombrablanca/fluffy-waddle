@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-06 03:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 02:38:45 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-08-06 02:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
     },
     "done": true
   },
@@ -267,7 +279,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-08-06 03:08:00 +0000",
       "minecraft:nether_wastes": "2025-08-06 03:09:19 +0000",
-      "minecraft:basalt_deltas": "2025-08-06 03:17:42 +0000"
+      "minecraft:basalt_deltas": "2025-08-06 03:17:42 +0000",
+      "minecraft:warped_forest": "2025-08-06 03:26:29 +0000"
     },
     "done": false
   },
@@ -445,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-08-06 03:10:04 +0000"
@@ -481,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-08-06 03:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-08-06 03:09:26 +0000"
@@ -508,6 +533,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-08-06 02:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
     },
     "done": true
   },
@@ -565,9 +596,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-06 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
     },
     "done": true
   },
@@ -592,6 +635,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
     },
     "done": true
   },
@@ -661,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-06 03:10:04 +0000"
@@ -715,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-06 03:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-06 02:52:01 +0000"
@@ -729,8 +790,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-08-06 03:21:24 +0000",
       "minecraft:skeleton": "2025-08-06 02:43:11 +0000",
       "minecraft:piglin": "2025-08-06 03:09:12 +0000",
+      "minecraft:enderman": "2025-08-06 03:28:06 +0000",
+      "minecraft:wither_skeleton": "2025-08-06 03:31:19 +0000",
       "minecraft:zombie": "2025-08-06 02:44:54 +0000",
       "minecraft:zombie_villager": "2025-08-06 02:55:29 +0000",
       "minecraft:ghast": "2025-08-06 03:10:51 +0000",
@@ -747,6 +811,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
     },
     "done": true
   },
@@ -777,6 +847,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-06 02:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
     },
     "done": true
   },
@@ -834,6 +910,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-08-06 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-08-06 02:46:58 +0000"
@@ -843,6 +931,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
     },
     "done": true
   },
@@ -943,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-08-06 02:30:07 +0000"
@@ -959,9 +1059,16 @@
     "criteria": {
       "cooked_porkchop": "2025-08-06 02:35:13 +0000",
       "rotten_flesh": "2025-08-06 02:32:30 +0000",
-      "cooked_mutton": "2025-08-06 02:53:11 +0000"
+      "cooked_mutton": "2025-08-06 02:53:11 +0000",
+      "baked_potato": "2025-08-06 03:29:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-06 03:27:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -1071,9 +1178,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-06 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-06 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
     },
     "done": true
   },
@@ -1113,9 +1244,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-06 03:25:00 +0000"
     },
     "done": true
   },
@@ -1155,6 +1298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-06 03:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-08-06 02:30:07 +0000"
@@ -1182,6 +1331,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-06 02:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-08-06 03:27:08 +0000"
     },
     "done": true
   },

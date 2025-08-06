@@ -78,7 +78,9 @@
       "chicken": "2025-08-06 02:08:45 +0000",
       "bread": "2025-08-06 02:48:13 +0000",
       "cooked_chicken": "2025-08-06 02:15:44 +0000",
+      "cooked_mutton": "2025-08-06 03:27:35 +0000",
       "cooked_beef": "2025-08-06 03:02:03 +0000",
+      "baked_potato": "2025-08-06 03:29:56 +0000",
       "porkchop": "2025-08-06 02:10:45 +0000"
     },
     "done": false
@@ -1382,7 +1384,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-08-06 02:41:56 +0000",
       "minecraft:nether_wastes": "2025-08-06 02:42:03 +0000",
-      "minecraft:basalt_deltas": "2025-08-06 02:47:29 +0000"
+      "minecraft:basalt_deltas": "2025-08-06 02:47:29 +0000",
+      "minecraft:warped_forest": "2025-08-06 03:26:32 +0000"
     },
     "done": false
   },
@@ -1800,6 +1803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-06 03:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-08-06 03:10:23 +0000"
@@ -1812,6 +1821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-06 03:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-08-06 03:10:23 +0000"
@@ -1821,6 +1836,18 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-08-06 03:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-06 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-08-06 03:27:49 +0000"
     },
     "done": true
   },
