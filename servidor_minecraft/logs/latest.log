@@ -68,3 +68,16 @@
 [02:57:50] [Server thread/INFO]: [Not Secure] <lucas_71019> bueno bay
 [02:57:53] [Server thread/INFO]: lucas_71019 lost connection: Disconnected
 [02:57:53] [Server thread/INFO]: lucas_71019 left the game
+[03:27:20] [Server thread/INFO]: ssombrablanca lost connection: Disconnected
+[03:27:20] [Server thread/INFO]: ssombrablanca left the game
+[03:27:28] [Server thread/INFO]: Stopping the server
+[03:27:28] [Server thread/INFO]: Stopping server
+[03:27:28] [Server thread/INFO]: Saving players
+[03:27:28] [Server thread/INFO]: Saving worlds
+[03:27:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:27:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:27:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
