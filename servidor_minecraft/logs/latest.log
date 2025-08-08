@@ -1,83 +1,35 @@
-[01:47:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:47:58] [ServerMain/INFO]: Loaded 1407 recipes
-[01:47:58] [ServerMain/INFO]: Loaded 1520 advancements
-[01:47:58] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:47:58] [Server thread/INFO]: Loading properties
-[01:47:58] [Server thread/INFO]: Default game type: SURVIVAL
-[01:47:58] [Server thread/INFO]: Generating keypair
-[01:47:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:47:59] [Server thread/INFO]: Using epoll channel type
-[01:47:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:47:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:47:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:47:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:47:59] [Server thread/INFO]: Preparing level "world"
-[01:47:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:48:04] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[01:48:04] [Worker-Main-3/INFO]: Preparing spawn area: 42%
-[01:48:04] [Server thread/INFO]: Time elapsed: 5354 ms
-[01:48:04] [Server thread/INFO]: Done (5.690s)! For help, type "help"
-[01:48:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:48:04] [Server thread/INFO]: <--[HERE]
-[01:48:23] [Server thread/INFO]: ssombrablanca[/127.146.108.228:53035] logged in with entity id 72 at (-422.30000001192093, 11.0, -1187.2504116132923)
-[01:48:24] [Server thread/INFO]: ssombrablanca joined the game
-[01:53:04] [Server thread/INFO]: Villager cuf['Weaponsmith'/74, l='ServerLevel[world]', x=-419.30, y=110.00, z=-1168.70] died, message: 'Weaponsmith was slain by Zombie'
-[01:53:32] [Server thread/INFO]: lucas_71019[/127.77.26.47:58475] logged in with entity id 921 at (-519.859249507783, 104.0, -1204.1037668245228)
-[01:53:32] [Server thread/INFO]: lucas_71019 joined the game
-[01:53:41] [Server thread/INFO]: [Not Secure] <lucas_71019> pene
-[01:53:50] [Server thread/INFO]: [Not Secure] <ssombrablanca> hola
-[01:58:04] [Server thread/INFO]: ssombrablanca has made the advancement [Diamonds!]
-[02:06:02] [Server thread/INFO]: [Not Secure] <lucas_71019> melina comoq habia tarea
-[02:06:08] [Server thread/INFO]: [Not Secure] <ssombrablanca> de que
-[02:06:12] [Server thread/INFO]: [Not Secure] <lucas_71019> de marco
-[02:06:18] [Server thread/INFO]: [Not Secure] <ssombrablanca> pincho igual
-[02:07:21] [Server thread/INFO]: [Not Secure] <ssombrablanca> na amigo no voy a hacer un ping el resumen
-[02:07:28] [Server thread/INFO]: [Not Secure] <lucas_71019> yo mas tarde
-[02:07:36] [Server thread/INFO]: [Not Secure] <lucas_71019> le voy a pedir a chat gpt
-[02:17:26] [Server thread/INFO]: [Not Secure] <lucas_71019> donde andas
-[02:17:31] [Server thread/INFO]: [Not Secure] <ssombrablanca> en la aldea
-[02:17:47] [Server thread/INFO]: [Not Secure] <lucas_71019> tene comida?
-[02:17:57] [Server thread/INFO]: [Not Secure] <ssombrablanca> no, ya me estoy ocupando de eso
-[02:19:30] [Server thread/INFO]: [Not Secure] <lucas_71019> e tuyo?
-[02:19:38] [Server thread/INFO]: [Not Secure] <ssombrablanca> no jaja pero no se va
-[02:30:32] [Server thread/INFO]: [Not Secure] <lucas_71019> -523 -1196
-[02:38:16] [Server thread/INFO]: [Not Secure] <ssombrablanca> tenes redstone?
-[02:46:38] [Server thread/INFO]: [ssombrablanca: Set the weather to clear]
-[02:48:16] [Server thread/WARN]: lucas_71019 moved too quickly! -3.2712451371120324,-9.550801356073382,-2.1311555895292713
-[02:49:41] [Server thread/INFO]: [Not Secure] <ssombrablanca> chatooo necesito redstone
-[02:49:45] [Server thread/INFO]: [Not Secure] <lucas_71019> no che
-[02:49:52] [Server thread/INFO]: [Not Secure] <lucas_71019> taba haciendo lo de marco juridico
-[02:49:55] [Server thread/INFO]: [Not Secure] <ssombrablanca> jaakjaak
-[02:49:57] [Server thread/INFO]: [Not Secure] <lucas_71019> toy minando igual
-[02:56:45] [Server thread/INFO]: [Not Secure] <lucas_71019> haceme tp ahi tengo redstone
-[02:56:51] [Server thread/INFO]: [Not Secure] <lucas_71019> ya me voy tmn
-[02:56:57] [Server thread/INFO]: [Not Secure] <ssombrablanca> tranqui ya tengo yo
-[02:57:03] [Server thread/INFO]: [Not Secure] <ssombrablanca> oki
-[02:57:03] [Server thread/INFO]: [Not Secure] <lucas_71019> igual haceeme tp
-[02:57:12] [Server thread/INFO]: [Not Secure] <ssombrablanca> esq estoy en una mina tamb
-[02:57:16] [Server thread/INFO]: [Not Secure] <lucas_71019> uuuu
-[02:57:50] [Server thread/INFO]: [Not Secure] <lucas_71019> bueno bay
-[02:57:53] [Server thread/INFO]: lucas_71019 lost connection: Disconnected
-[02:57:53] [Server thread/INFO]: lucas_71019 left the game
-[03:27:20] [Server thread/INFO]: ssombrablanca lost connection: Disconnected
-[03:27:20] [Server thread/INFO]: ssombrablanca left the game
-[03:27:28] [Server thread/INFO]: Stopping the server
-[03:27:28] [Server thread/INFO]: Stopping server
-[03:27:28] [Server thread/INFO]: Saving players
-[03:27:28] [Server thread/INFO]: Saving worlds
-[03:27:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:27:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:27:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:20:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:20:36] [ServerMain/INFO]: Loaded 1407 recipes
+[18:20:36] [ServerMain/INFO]: Loaded 1520 advancements
+[18:20:36] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[18:20:36] [Server thread/INFO]: Loading properties
+[18:20:36] [Server thread/INFO]: Default game type: SURVIVAL
+[18:20:36] [Server thread/INFO]: Generating keypair
+[18:20:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:20:36] [Server thread/INFO]: Using epoll channel type
+[18:20:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:20:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:20:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:20:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:20:36] [Server thread/INFO]: Preparing level "world"
+[18:20:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:41] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[18:20:41] [Worker-Main-3/INFO]: Preparing spawn area: 73%
+[18:20:41] [Server thread/INFO]: Time elapsed: 5084 ms
+[18:20:41] [Server thread/INFO]: Done (5.409s)! For help, type "help"
+[18:21:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:24:18] [Server thread/INFO]: ssombrablanca[/127.170.44.149:40897] logged in with entity id 72 at (-409.1972121954789, 92.0, -1284.080398766107)
+[18:24:18] [Server thread/INFO]: ssombrablanca joined the game
+[18:24:55] [Server thread/INFO]: FirstFire28[/127.170.44.149:48781] logged in with entity id 249 at (-420.8858407127629, 91.9375, -1295.4395549602948)
+[18:24:55] [Server thread/INFO]: FirstFire28 joined the game
+[18:25:55] [Server thread/INFO]: Villager cuf['Toolsmith'/108, l='ServerLevel[world]', x=-414.30, y=105.00, z=-1216.30] died, message: 'Toolsmith was slain by Zombie'
+[18:26:02] [Server thread/INFO]: Villager cuf['Villager'/109, l='ServerLevel[world]', x=-417.49, y=105.00, z=-1216.30] died, message: 'Villager was slain by Zombie'
