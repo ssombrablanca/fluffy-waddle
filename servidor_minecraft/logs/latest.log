@@ -33,3 +33,30 @@
 [18:24:55] [Server thread/INFO]: FirstFire28 joined the game
 [18:25:55] [Server thread/INFO]: Villager cuf['Toolsmith'/108, l='ServerLevel[world]', x=-414.30, y=105.00, z=-1216.30] died, message: 'Toolsmith was slain by Zombie'
 [18:26:02] [Server thread/INFO]: Villager cuf['Villager'/109, l='ServerLevel[world]', x=-417.49, y=105.00, z=-1216.30] died, message: 'Villager was slain by Zombie'
+[18:39:12] [Server thread/INFO]: DEX50000[/127.66.207.135:56573] logged in with entity id 1639 at (-535.2059890889803, 69.0, 172.20793500013204)
+[18:39:12] [Server thread/INFO]: DEX50000 joined the game
+[18:40:40] [Server thread/INFO]: nahuu_1[/127.208.192.168:45775] logged in with entity id 2147 at (-569.2928614125583, 76.0, 186.93497676743112)
+[18:40:40] [Server thread/INFO]: nahuu_1 joined the game
+[18:40:48] [Server thread/INFO]: [Not Secure] <DEX50000> ds
+[18:40:50] [Server thread/INFO]: [Not Secure] <nahuu_1> ay
+[18:40:57] [Server thread/INFO]: [Not Secure] <ssombrablanca> no creo poder
+[18:41:20] [Server thread/INFO]: DEX50000 has made the advancement [Into Fire]
+[18:42:43] [Server thread/WARN]: ssombrablanca moved too quickly! 9.954085558114457,-1.0,-0.2025840546755262
+[18:46:19] [Server thread/INFO]: ssombrablanca lost connection: Timed out
+[18:46:19] [Server thread/INFO]: ssombrablanca left the game
+[18:46:19] [Server thread/WARN]: handleDisconnection() called twice
+[18:46:27] [Server thread/INFO]: FirstFire28 lost connection: Timed out
+[18:46:27] [Server thread/INFO]: FirstFire28 left the game
+[18:47:32] [Server thread/INFO]: ssombrablanca[/127.170.44.149:45003] logged in with entity id 3741 at (-401.13343923927215, 90.0, -1285.3225088545253)
+[18:47:32] [Server thread/INFO]: ssombrablanca joined the game
+[18:47:43] [Server thread/INFO]: FirstFire28[/127.170.44.149:49969] logged in with entity id 3924 at (-444.4582789918876, 72.0, -1205.300000011921)
+[18:47:43] [Server thread/INFO]: FirstFire28 joined the game
+[18:48:57] [Server thread/INFO]: FirstFire28 lost connection: You logged in from another location
+[18:48:57] [Server thread/INFO]: FirstFire28 left the game
+[18:48:58] [Server thread/INFO]: FirstFire28[/127.170.44.149:59251] logged in with entity id 4300 at (-443.275126832226, 70.0, -1212.4599767010295)
+[18:48:58] [Server thread/INFO]: FirstFire28 joined the game
+[18:49:04] [Server thread/INFO]: [Not Secure] <DEX50000> -535 74 272
+[18:49:11] [Server thread/INFO]: DEX50000 lost connection: Disconnected
+[18:49:11] [Server thread/INFO]: DEX50000 left the game
+[18:50:28] [Server thread/INFO]: FirstFire28 lost connection: Timed out
+[18:50:28] [Server thread/INFO]: FirstFire28 left the game
