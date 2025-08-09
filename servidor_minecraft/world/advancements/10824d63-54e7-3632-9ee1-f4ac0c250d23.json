@@ -19,6 +19,7 @@
       "minecraft:old_growth_birch_forest": "2025-08-06 02:41:27 +0000",
       "minecraft:desert": "2025-08-06 02:19:56 +0000",
       "minecraft:deep_dark": "2025-08-09 23:10:16 +0000",
+      "minecraft:grove": "2025-08-09 23:23:24 +0000",
       "minecraft:meadow": "2025-08-06 02:48:15 +0000",
       "minecraft:birch_forest": "2025-08-06 01:59:01 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-06 02:50:09 +0000",
@@ -1882,6 +1883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-08-09 23:15:22 +0000"
@@ -1900,6 +1907,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall": {
     "criteria": {
       "has_tuff": "2025-08-09 23:15:22 +0000"
@@ -1909,6 +1928,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-09 23:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
     },
     "done": true
   },
@@ -1924,9 +1949,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-09 23:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
     },
     "done": true
   },
@@ -1969,6 +2018,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-09 23:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-09 23:28:42 +0000"
     },
     "done": true
   },
