@@ -1,77 +1,30 @@
-[18:20:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:20:36] [ServerMain/INFO]: Loaded 1407 recipes
-[18:20:36] [ServerMain/INFO]: Loaded 1520 advancements
-[18:20:36] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[18:20:36] [Server thread/INFO]: Loading properties
-[18:20:36] [Server thread/INFO]: Default game type: SURVIVAL
-[18:20:36] [Server thread/INFO]: Generating keypair
-[18:20:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:20:36] [Server thread/INFO]: Using epoll channel type
-[18:20:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:20:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:20:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:20:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:20:36] [Server thread/INFO]: Preparing level "world"
-[18:20:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:41] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[18:20:41] [Worker-Main-3/INFO]: Preparing spawn area: 73%
-[18:20:41] [Server thread/INFO]: Time elapsed: 5084 ms
-[18:20:41] [Server thread/INFO]: Done (5.409s)! For help, type "help"
-[18:21:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:24:18] [Server thread/INFO]: ssombrablanca[/127.170.44.149:40897] logged in with entity id 72 at (-409.1972121954789, 92.0, -1284.080398766107)
-[18:24:18] [Server thread/INFO]: ssombrablanca joined the game
-[18:24:55] [Server thread/INFO]: FirstFire28[/127.170.44.149:48781] logged in with entity id 249 at (-420.8858407127629, 91.9375, -1295.4395549602948)
-[18:24:55] [Server thread/INFO]: FirstFire28 joined the game
-[18:25:55] [Server thread/INFO]: Villager cuf['Toolsmith'/108, l='ServerLevel[world]', x=-414.30, y=105.00, z=-1216.30] died, message: 'Toolsmith was slain by Zombie'
-[18:26:02] [Server thread/INFO]: Villager cuf['Villager'/109, l='ServerLevel[world]', x=-417.49, y=105.00, z=-1216.30] died, message: 'Villager was slain by Zombie'
-[18:39:12] [Server thread/INFO]: DEX50000[/127.66.207.135:56573] logged in with entity id 1639 at (-535.2059890889803, 69.0, 172.20793500013204)
-[18:39:12] [Server thread/INFO]: DEX50000 joined the game
-[18:40:40] [Server thread/INFO]: nahuu_1[/127.208.192.168:45775] logged in with entity id 2147 at (-569.2928614125583, 76.0, 186.93497676743112)
-[18:40:40] [Server thread/INFO]: nahuu_1 joined the game
-[18:40:48] [Server thread/INFO]: [Not Secure] <DEX50000> ds
-[18:40:50] [Server thread/INFO]: [Not Secure] <nahuu_1> ay
-[18:40:57] [Server thread/INFO]: [Not Secure] <ssombrablanca> no creo poder
-[18:41:20] [Server thread/INFO]: DEX50000 has made the advancement [Into Fire]
-[18:42:43] [Server thread/WARN]: ssombrablanca moved too quickly! 9.954085558114457,-1.0,-0.2025840546755262
-[18:46:19] [Server thread/INFO]: ssombrablanca lost connection: Timed out
-[18:46:19] [Server thread/INFO]: ssombrablanca left the game
-[18:46:19] [Server thread/WARN]: handleDisconnection() called twice
-[18:46:27] [Server thread/INFO]: FirstFire28 lost connection: Timed out
-[18:46:27] [Server thread/INFO]: FirstFire28 left the game
-[18:47:32] [Server thread/INFO]: ssombrablanca[/127.170.44.149:45003] logged in with entity id 3741 at (-401.13343923927215, 90.0, -1285.3225088545253)
-[18:47:32] [Server thread/INFO]: ssombrablanca joined the game
-[18:47:43] [Server thread/INFO]: FirstFire28[/127.170.44.149:49969] logged in with entity id 3924 at (-444.4582789918876, 72.0, -1205.300000011921)
-[18:47:43] [Server thread/INFO]: FirstFire28 joined the game
-[18:48:57] [Server thread/INFO]: FirstFire28 lost connection: You logged in from another location
-[18:48:57] [Server thread/INFO]: FirstFire28 left the game
-[18:48:58] [Server thread/INFO]: FirstFire28[/127.170.44.149:59251] logged in with entity id 4300 at (-443.275126832226, 70.0, -1212.4599767010295)
-[18:48:58] [Server thread/INFO]: FirstFire28 joined the game
-[18:49:04] [Server thread/INFO]: [Not Secure] <DEX50000> -535 74 272
-[18:49:11] [Server thread/INFO]: DEX50000 lost connection: Disconnected
-[18:49:11] [Server thread/INFO]: DEX50000 left the game
-[18:50:28] [Server thread/INFO]: FirstFire28 lost connection: Timed out
-[18:50:28] [Server thread/INFO]: FirstFire28 left the game
-[18:50:49] [Server thread/INFO]: FirstFire28[/127.170.44.149:37147] logged in with entity id 4869 at (-444.4511209513998, 76.0, -1205.3363584650497)
-[18:50:49] [Server thread/INFO]: FirstFire28 joined the game
-[18:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7225ms or 144 ticks behind
-[18:55:54] [Server thread/INFO]: FirstFire28 has made the advancement [Diamonds!]
-[18:56:06] [Server thread/INFO]: FirstFire28 was slain by ssombrablanca
-[18:56:12] [Server thread/INFO]: [Not Secure] <nahuu_1> bien
-[19:01:16] [Server thread/INFO]: [Not Secure] <ssombrablanca> el negro me choreo los diamantes
-[19:02:07] [Server thread/INFO]: FirstFire28 lost connection: Disconnected
-[19:02:07] [Server thread/INFO]: FirstFire28 left the game
-[19:02:24] [Server thread/INFO]: FirstFire28[/127.170.44.149:51267] logged in with entity id 8589 at (-428.6549535736574, 85.0, -1295.375161062426)
-[19:02:24] [Server thread/INFO]: FirstFire28 joined the game
-[19:03:53] [Server thread/INFO]: [Not Secure] <ssombrablanca> chicos ya me tengo q ir pipipi
-[19:04:05] [Server thread/INFO]: [Not Secure] <ssombrablanca> enseguida cierro el server
-[19:04:09] [Server thread/INFO]: [Not Secure] <nahuu_1> ta bien
-[19:06:05] [Server thread/INFO]: FirstFire28 drowned
+[22:59:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:59:08] [ServerMain/INFO]: Loaded 1407 recipes
+[22:59:08] [ServerMain/INFO]: Loaded 1520 advancements
+[22:59:08] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:59:08] [Server thread/INFO]: Loading properties
+[22:59:08] [Server thread/INFO]: Default game type: SURVIVAL
+[22:59:08] [Server thread/INFO]: Generating keypair
+[22:59:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:59:08] [Server thread/INFO]: Using epoll channel type
+[22:59:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:59:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:59:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:59:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:59:08] [Server thread/INFO]: Preparing level "world"
+[22:59:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:59:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:59:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:59:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:59:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:59:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:59:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:59:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:59:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:59:13] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[22:59:13] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[22:59:14] [Server thread/INFO]: Time elapsed: 4997 ms
+[22:59:14] [Server thread/INFO]: Done (5.324s)! For help, type "help"
+[23:00:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:03:49] [Server thread/INFO]: ssombrablanca[/127.146.108.228:38507] logged in with entity id 72 at (-432.4535891652436, 85.5625, -1296.6264671277816)
+[23:03:49] [Server thread/INFO]: ssombrablanca joined the game
