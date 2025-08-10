@@ -21,3 +21,17 @@
 [01:46:44] [Server thread/INFO]: ssombrablanca has made the advancement [Sneak 100]
 [01:47:24] [Server thread/INFO]: DEX50000 lost connection: Disconnected
 [01:47:24] [Server thread/INFO]: DEX50000 left the game
+[02:13:49] [Server thread/INFO]: Villager cuf['Farmer'/23142, l='ServerLevel[world]', x=-398.52, y=100.17, z=-755.47] died, message: 'Farmer was slain by Zombie'
+[02:14:47] [Server thread/INFO]: ssombrablanca lost connection: Disconnected
+[02:14:47] [Server thread/INFO]: ssombrablanca left the game
+[02:14:54] [Server thread/INFO]: Stopping the server
+[02:14:54] [Server thread/INFO]: Stopping server
+[02:14:54] [Server thread/INFO]: Saving players
+[02:14:54] [Server thread/INFO]: Saving worlds
+[02:14:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:14:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:14:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
