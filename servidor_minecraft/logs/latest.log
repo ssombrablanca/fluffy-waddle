@@ -34,3 +34,7 @@
 [23:47:30] [Server thread/INFO]: [Not Secure] <ssombrablanca> hi
 [23:47:37] [Server thread/INFO]: [Not Secure] <ssombrablanca> ds?
 [23:47:48] [Server thread/INFO]: [Not Secure] <lucas_71019> toy
+[23:55:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-393, y=111, z=-1173} jb{x=-394, y=109, z=-1173}
+[23:55:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-393, y=111, z=-1173} jb{x=-394, y=109, z=-1173}
+[23:57:34] [Server thread/INFO]: Villager cuf['Villager'/4130, l='ServerLevel[world]', x=-420.30, y=94.00, z=-1241.51] died, message: 'Villager was slain by Zombie'
+[23:57:43] [Server thread/INFO]: Villager cuf['Villager'/4129, l='ServerLevel[world]', x=-423.70, y=94.00, z=-1241.70] died, message: 'Villager was slain by Zombie'
