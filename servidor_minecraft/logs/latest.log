@@ -5,3 +5,5 @@
 [00:24:05] [Server thread/INFO]: DEX50000[/127.66.207.135:55965] logged in with entity id 18826 at (-541.8874493376799, 73.0, 272.71926649748343)
 [00:24:05] [Server thread/INFO]: DEX50000 joined the game
 [00:33:04] [Server thread/INFO]: DEX50000 has made the advancement [Ice Bucket Challenge]
+[00:48:20] [Server thread/INFO]: [ssombrablanca: Teleported DEX50000 to ssombrablanca]
+[00:50:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-414, y=92, z=-1287} jb{x=-413, y=91, z=-1287}

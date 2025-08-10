@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-10 00:41:31 +0000",
       "minecraft:desert": "2025-08-06 02:38:38 +0000",
       "minecraft:dark_forest": "2025-08-06 02:30:41 +0000",
       "minecraft:forest": "2025-08-06 03:12:43 +0000",
@@ -295,7 +296,8 @@
       "minecraft:skeleton": "2025-08-06 02:30:50 +0000",
       "minecraft:enderman": "2025-08-06 02:53:39 +0000",
       "minecraft:spider": "2025-08-06 02:49:54 +0000",
-      "minecraft:zombie": "2025-08-06 02:39:36 +0000"
+      "minecraft:zombie": "2025-08-06 02:39:36 +0000",
+      "minecraft:creeper": "2025-08-10 00:45:51 +0000"
     },
     "done": false
   },
@@ -1911,6 +1913,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-09 23:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-10 00:39:00 +0000"
     },
     "done": true
   },
