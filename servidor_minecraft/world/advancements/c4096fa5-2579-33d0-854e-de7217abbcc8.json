@@ -14,6 +14,7 @@
       "minecraft:stony_peaks": "2025-08-10 00:46:26 +0000",
       "minecraft:forest": "2025-08-10 00:38:30 +0000",
       "minecraft:sparse_jungle": "2025-08-06 02:30:15 +0000",
+      "minecraft:cherry_grove": "2025-08-10 01:04:07 +0000",
       "minecraft:river": "2025-08-06 02:30:12 +0000",
       "minecraft:birch_forest": "2025-08-06 02:29:00 +0000",
       "minecraft:stony_shore": "2025-08-06 02:28:30 +0000",
@@ -1759,9 +1760,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-10 01:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-10 00:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-10 01:03:07 +0000"
     },
     "done": true
   },
@@ -1780,6 +1793,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-10 00:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-10 01:03:07 +0000"
     },
     "done": true
   },
